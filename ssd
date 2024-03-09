@@ -1,0 +1,7 @@
+echo "# ssd" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git ветка -M main 
+git удаленное добавление источника https://github.com/viktor1232/ssd.git
+ git push - ты родной, главный
